@@ -1,3 +1,27 @@
+# <h1>News App</h1>
+
+<h4>https://volley-freak.github.io/news-web-app/</h4>
+
+**********************************************
+![](src/assets/screenshot1.png)
+**********************************************
+![](src/assets/screenshot2.png)
+**********************************************
+![](src/assets/screenshot3.png)
+**********************************************
+![](src/assets/screenshot4.png)
+
+
+**********************************************
+
+## Languages Used
+
+![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ReactJS](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61DBFB)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
